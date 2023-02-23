@@ -413,7 +413,7 @@
                         </div>
                     </div> 
                     <div class="laptop">
-                        <div class="anh4"><img src="/ảnh/637950740313797526_asus-tuf-gaming-fa506ihr-den-dd.webp" alt=""></div>
+                        <div class="anh4"><img src="ảnh/637950740313797526_asus-tuf-gaming-fa506ihr-den-dd.webp" alt=""></div>
                         <div class="ten">Asus Tuf Gaming FA506HIRB - HN019W R5 4600H</div>
                         <div class="gia">16.490.000đ</div>
                         <div>
@@ -449,7 +449,7 @@
                         </div>
                     </div>
                     <div class="laptop">
-                        <div class="anh4"><img src="/ảnh/637971149907512230_lenovo-ideapad-gaming-3-15iah7-xam-dd.webp" alt=""></div>
+                        <div class="anh4"><img src="ảnh/637971149907512230_lenovo-ideapad-gaming-3-15iah7-xam-dd.webp" alt=""></div>
                         <div class="ten">MSI Gaming GF63 thin 11SC - 663VN i711800H</div>
                         <div class="gia">18.490.000đ</div>
                         <div>
