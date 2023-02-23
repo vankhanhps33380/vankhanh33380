@@ -4,13 +4,12 @@
     padding: 0px;
 }
 .anh{
-    width: 100px;
+    width: 151px;
     height: 40px;
     margin: 0px;
     padding-left: 100px;
     border: 1px solid red; 
     float: left;
-    color: red;
 }
 .menu ul li{
     display: inline-block;
