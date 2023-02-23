@@ -1,0 +1,129 @@
+.cuoi ul li a{
+    display: block;
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: larger;
+    color: rgb(65, 50, 238);
+    line-height: 50px;
+    padding: 0 30px;
+}
+.cuoi ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.cuoi ul li a:hover{
+    color: red;
+}
+.phandau ul li{
+    display: inline-block;
+}
+.phandau ul li a{
+    display: block;
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: larger;
+    color: white;
+    line-height: 50px;
+    padding: 0 30px;
+}
+.phandau ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    border-radius: 3px;
+    background-color: red;
+    text-align: center;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+}
+.menu ul li{
+    display: inline-block;
+    position: relative;
+}
+.menu ul li a{
+    display: block;
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: large;
+    color: white;
+    line-height: 40px;
+    padding: -10px;
+}
+.menu ul li a:hover{
+    color: red;
+}
+.menu ul{
+    padding: 0px;
+    margin: 0px;
+    border-radius: 3px;
+    list-style: none;
+    background-color: black;
+    text-align: center;
+}
+.menu ul ul{
+    position: absolute;
+    display: none;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    border-radius: 3px;
+    width: 200px;
+    width: 100%;
+    background-color: black;
+    box-shadow: 0 0 1px gray;
+}
+.menu ul ul a{
+    line-height: 30px;
+    color: white;
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: larger;
+}
+.menu ul li:hover ul{
+    display: block;
+}
+.menu ul ul a:hover{
+    background-color: white;
+    color: black;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.anh{
+    width: 151px;
+    height: 40px;
+    margin: 0px;
+    padding-left: 100px;
+    border: 1px solid red; 
+    float: left;
+}
+.hang ul li a{
+    display: block;
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: larger;
+    color: black;
+    line-height: 50px;
+    padding: 0 30px;
+}
+.hang ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.hang ul li a:hover{
+    color: red;
+}
