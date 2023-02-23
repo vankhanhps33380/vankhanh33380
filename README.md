@@ -117,7 +117,10 @@
         </ul>
     </nav>
     <article>
-        <div class="hop">
+        <table>'
+            <tr>
+                <td>
+                     <div class="hop">
             <div style="margin-top: 100px"><center><img src="ảnh/638098516915882248_desk-header.webp" alt=""></center></div>
            <div>
             <div class="colum">
@@ -582,6 +585,9 @@
                     </div>
                 </div>
             </div>
+                </td>
+            </tr>
+        </table>
     </article>
     <footer>
         <div class="cuoi">
